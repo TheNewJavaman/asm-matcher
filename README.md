@@ -37,7 +37,7 @@ breaks each chunk into its opcodes, substituting literal registers or constants 
 
 ## Workflow
 
-*(The steps listed below are written for Unreal Engine game modding, but can be generalized to other applications such
+*(The steps listed below are written for Unreal Engine game modding, but can be generalized to _other applications such
 as malware analysis)*
 
 1. Create function signature
