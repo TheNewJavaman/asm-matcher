@@ -1,1 +1,3 @@
-pub mod opcodes_db;
+pub mod analysis;
+
+mod tests;
